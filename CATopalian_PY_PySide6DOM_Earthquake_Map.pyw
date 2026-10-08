@@ -183,7 +183,7 @@ run_app()
 ####
 
 # Dedicated to God the Father
-# (c) Copyright 2026Christopher Andrew Topalian All Rights Reserved
+# (c) Copyright 2026 Christopher Andrew Topalian All Rights Reserved
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
