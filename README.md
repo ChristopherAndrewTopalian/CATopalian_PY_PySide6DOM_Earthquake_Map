@@ -17,6 +17,8 @@ REQUIREMENTS:
 
 ![001](src/media/textures/screenshots/001.webp)
 
+Video: https://www.youtube.com/watch?v=auaqX0ar7wI
+
 ---
 
 ### How to Download this App
