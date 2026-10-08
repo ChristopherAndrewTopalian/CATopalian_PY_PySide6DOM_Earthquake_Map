@@ -17,6 +17,12 @@ REQUIREMENTS:
 
 ![001](src/media/textures/screenshots/001.webp)
 
+![002](src/media/textures/screenshots/001.webp)
+
+![003](src/media/textures/screenshots/001.webp)
+
+![004](src/media/textures/screenshots/001.webp)
+
 Video: https://www.youtube.com/watch?v=auaqX0ar7wI
 
 ---
